@@ -40,10 +40,10 @@
     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous" defer>
   </script>
 
-  <script src="/js/errorpages/isup.js" defer></script>
-  <script src="/js/errorpages/homepage.js" defer></script>
-  <script src="/js/errorpages/loaddomain.js" defer></script>
-  <script src="//cdn.passprotect.io/passprotect.min.js" defer></script>
+  <script src="/js/errorpages/isup.js" crossorigin="anonymous" defer async></script>
+  <script src="/js/errorpages/homepage.js" crossorigin="anonymous" defer async></script>
+  <script src="/js/errorpages/loaddomain.js" crossorigin="anonymous" defer async></script>
+  <script src="//cdn.jsdelivr.net/npm/passprotect@1.0.0/umd/passprotect.min.js" crossorigin="anonymous" defer async></script>
   <title>Domain Doesn't Exist</title>
 </head>
 
@@ -61,7 +61,7 @@
     <div class="c5">
       <br />
       <?php
-      echo "System Hostname: " , gethostname() . "<br />";
+      echo "System Hostname: ", gethostname() . "<br />";
       echo "Server Name: " . $_SERVER['SERVER_NAME'] . "<br />";
       echo "IP Address: " . $_SERVER['SERVER_ADDR'] . "<br />";
       ?> <br /><br />
