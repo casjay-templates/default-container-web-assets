@@ -48,7 +48,8 @@
   <script src="./js/errorpages/homepage.js"></script>
   <script src="./js/errorpages/loaddomain.js"></script>
   <script src="./js/jquery/default.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/passprotect@1.0.0/umd/passprotect.min.js" crossorigin="anonymous" defer async></script>
+  <script src="//cdn.jsdelivr.net/npm/passprotect@1.0.0/umd/passprotect.min.js" crossorigin="anonymous" defer
+    async></script>
   <script src="./js/bootstrap.min.js" defer></script>
   <script src="./js/app.js" defer></script>
   <title>Welcome to REPLACE_SERVER_SOFTWARE server</title>
@@ -80,11 +81,6 @@
         <br />
         <br />
         <br />
-        <!-- Begin last updated -->
-        <span style="color: skyblue"> REPLACE_LAST_UPDATED_ON_MESSAGE </span>
-        <br />
-        <br />
-        <!-- End last updated -->
         <!-- begin legal block --->
         <div class="legal">REPLACE_COPYRIGHT_FOOTER</div>
         <!-- end legal block --->
@@ -101,7 +97,14 @@
         </div>
         <br />
         <!-- end engine block --->
+        <!-- Begin last updated -->
         <br />
+        <br />
+        <span style="color: skyblue"> REPLACE_LAST_UPDATED_ON_MESSAGE </span>
+        <br />
+        <br />
+        <br />
+        <!-- End last updated -->
         <br />
       </div>
     </div>
