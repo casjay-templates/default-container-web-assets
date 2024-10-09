@@ -1,0 +1,6 @@
+Contact: mailto:security@REPLACE_SERVER_NAME
+Expires: 2026-01-01T14:00:00.000Z
+Encryption: https://github.com/casjay.gpg
+Preferred-Languages: en
+Canonical: https://REPLACE_SERVER_NAME/security.txt
+
