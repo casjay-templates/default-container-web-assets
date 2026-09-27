@@ -50,7 +50,6 @@
   <script src="./js/jquery/default.js"></script>
   <script src="//cdn.jsdelivr.net/npm/passprotect@1.0.0/umd/passprotect.min.js" crossorigin="anonymous" defer
     async></script>
-  <script src="./js/bootstrap.min.js" defer></script>
   <script src="./js/app.js" defer></script>
   <title>Welcome to REPLACE_SERVER_SOFTWARE server</title>
 </head>
