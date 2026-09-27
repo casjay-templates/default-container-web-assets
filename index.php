@@ -42,7 +42,7 @@
   <link rel="apple-touch-icon" href="./images/icon.png" />
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
   <link rel="stylesheet" type="text/css" href="./css/cookieconsent.css" />
-  <link rel="stylesheet" href="./css/bootstrap/darkly.css" />
+  <link rel="stylesheet" href="./css/hacker.css" />
   <link rel="stylesheet" href="./css/index.css" />
   <script src="./js/errorpages/isup.js"></script>
   <script src="./js/errorpages/homepage.js"></script>
