@@ -67,7 +67,7 @@
     <hr />
     <div class="footer footer-custom col-sm-12">
       <div class="footer vh-100">
-        <div class="footer-custom fs-5">
+        <div class="footer-custom">
           <br />
           <br />
           <br />
